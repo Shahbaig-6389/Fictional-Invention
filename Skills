@@ -1,0 +1,11 @@
+✨👉Courses 📚 Available🎖️🏆🎖️
+- AI for Beginners.
+- Data Science Methodology
+- Data Analytics
+- Data Engineer
+- Data Scientist
+- Machine Learning
+- Advanced Machine Learning 
+- Fundamentals of Computers and Networking
+- Findamentals of Cybersecurity
+- Cybersecurity Essentials
